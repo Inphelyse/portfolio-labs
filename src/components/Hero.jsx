@@ -2,16 +2,15 @@ export default function Hero() {
     return (
       <section className="py-20 px-6 max-w-4xl mx-auto flex flex-col items-start justify-center">
         <span className="text-xs font-bold uppercase tracking-widest text-accent-amber mb-4">
-          Digital Product Designer & Developer
+          Welcome!!
         </span>
         
         <h1 className="text-4xl md:text-6xl font-extrabold leading-tight tracking-tight max-w-3xl">
-          Crafting digital <span className="text-accent-amber">experiences</span> with purpose.
+          Making website <span className="text-accent-amber">experiences</span> with proper function.
         </h1>
         
         <p className="text-text-muted text-lg md:text-xl mt-6 max-w-2xl leading-relaxed">
-          I specialize in creating clean, user-centric interfaces and robust web applications. 
-          Turning complex problems into elegant, intuitive designs.
+          I am a computer science student at the Cebu Institute of Technology - University. I am interested in web development and software engineering.
         </p>
         
         <div className="flex flex-wrap gap-4 mt-8 w-full sm:w-auto">
