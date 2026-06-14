@@ -10,7 +10,7 @@ export default function Hero() {
         </h1>
         
         <p className="text-text-muted text-lg md:text-xl mt-6 max-w-2xl leading-relaxed">
-          I am a computer science student at the Cebu Institute of Technology - University. I am interested in web development and software engineering.
+          I am a computer science student at the Cebu Institute of Technology - University. Here's the work I've done so far.
         </p>
         
         <div className="flex flex-wrap gap-4 mt-8 w-full sm:w-auto">
